@@ -55,15 +55,15 @@ I have experience working with the **MERN stack** and can build **full stack web
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:fahmidaakter0010@gmail.com)
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Stats  
+<p align="center">
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahmida0010&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmida0010&layout=compact&theme=radical) |
+<img src="https://github-readme-stats.vercel.app/api?username=Fahmida0010&show_icons=true&theme=tokyonight"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmida0010&layout=compact&theme=tokyonight"/>
 
+</p>
 ![Profile views](https://komarev.com/ghpvc/?username=Fahmida0010&style=flat-square)
 
 ⭐ Thanks for visiting my profile!
