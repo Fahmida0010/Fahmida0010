@@ -26,7 +26,7 @@ I enjoy building modern, responsive, and user-friendly web applications.
 # 🚀 Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,ts,socketio,openai,vscode&perline=7" />
 </p>
 
 ---
@@ -38,6 +38,7 @@ I enjoy building modern, responsive, and user-friendly web applications.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
@@ -46,6 +47,7 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
 
 ### Database & Auth
 
@@ -53,6 +55,12 @@ I enjoy building modern, responsive, and user-friendly web applications.
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge)
+
+### Tools & API
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
 
 ---
 
