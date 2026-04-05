@@ -58,33 +58,27 @@ I enjoy building modern, responsive, and user-friendly web applications.
 
 ## 💼 Featured Projects
 
-### 1. Micro Task App
+### 1. [Micro Task App](https://github.com/Fahmida0010/Micro-task-client.git)
 <p align="center">
-  <a href="https://github.com/Fahmida0010/Micro-task-client.git" target="_blank">
-    <img src="https://user-images.githubusercontent.com/your-microtask-image.png" width="80%" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/your-microtask-image.png" width="80%" />
 </p>
 **Tech Stack:** React, Next.js, Tailwind CSS, Node.js, PostgreSQL  
 A productivity app to manage and track micro-tasks efficiently.
 
 ---
 
-### 2. The Spicy Biryani
+### 2. [The Spicy Biryani](https://github.com/Fahmida0010/TheSpicyBiryani-.git)
 <p align="center">
-  <a href="https://github.com/Fahmida0010/TheSpicyBiryani-.git" target="_blank">
-    <img src="https://user-images.githubusercontent.com/your-biryani-image.png" width="80%" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/your-biryani-image.png" width="80%" />
 </p>
 **Tech Stack:** React, Tailwind CSS, Firebase  
 A restaurant website showcasing menu, ordering system, and interactive UI.
 
 ---
 
-### 3. Scholar Stream
+### 3. [Scholar Stream](https://github.com/Fahmida0010/ScholarStream-frontend-.git)
 <p align="center">
-  <a href="https://github.com/Fahmida0010/ScholarStream-frontend-.git" target="_blank">
-    <img src="https://user-images.githubusercontent.com/your-scholarstream-image.png" width="80%" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/your-scholarstream-image.png" width="80%" />
 </p>
 **Tech Stack:** React, Next.js, Tailwind CSS  
 A platform for students to share, stream, and access academic resources.
