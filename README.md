@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I am **Fahmida Akter Tanjina**, a passionate **Frontend Focused MERN Stack Developer**.
+I am **Fahmida Akter Tanjina**, a passionate **Frontend Focused MERN Stack Developer**.  
 I enjoy building modern, responsive, and user-friendly web applications.
 
 * 🌱 Currently learning **Advanced MERN Stack Development**
@@ -90,6 +90,20 @@ A restaurant website showcasing menu, ordering system, and interactive UI.
 </p>
 **Tech Stack:** React, Next.js, Tailwind CSS  
 A platform for students to share, stream, and access academic resources.
+
+---
+
+## 🔥 Open Source & Pull Requests
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Fahmida0010&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fahmida0010&theme=tokyonight"/>
+</p>
+
+👉 I actively contribute to open-source projects and submit pull requests to improve code quality, fix bugs, and build new features.
 
 ---
 
