@@ -2,7 +2,7 @@
   <img src="developerimage.png" width="100%">
 </p>
 <h1 align="center">Hi 👋 I'm Fahmida Akter Tanjina</h1>
-<h3 align="center">Frontend Focused MERN Stack Developer</h3>
+<h3 align="center">Full stack Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+I+am+a+MERN+Stack+Developer;Frontend+Developer;Building+Modern+Web+Applications;Passionate+About+Clean+UI+Design"/>
@@ -11,11 +11,11 @@
 ---
 ## 👩‍💻 About Me
 
-I am **Fahmida Akter Tanjina**, a **Full Stack MERN Developer** passionate about building scalable, high-performance, and user-focused web applications.
+I am **Fahmida Akter Tanjina**, a **Full Stack Developer** passionate about building scalable, high-performance, and user-focused web applications.
 
 I specialize in designing and developing modern web solutions with clean UI, strong backend architecture, and smooth user experiences.
 
-* 🌱 Currently advancing my skills in **Full Stack MERN Development (MongoDB,Postgresql,Mysql,Express, React,Next.js, Node.js)**
+* 🌱 Currently advancing my skills in **Full Stack Development (MongoDB,Postgresql,Mysql,Express, React,Next.js, Node.js)**
 * 💻 Capable of building **complete full-stack web applications from scratch**
 * 🚀 Passionate about creating **responsive, modern, and interactive user interfaces**
 * ⚙️ Focused on writing **clean, maintainable, and efficient code**
