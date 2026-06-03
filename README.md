@@ -9,15 +9,16 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
-I am **Fahmida Akter Tanjina**, a passionate **Frontend Focused MERN Stack Developer**.  
-I enjoy building modern, responsive, and user-friendly web applications.
+I am **Fahmida Akter Tanjina**, a **Full Stack MERN Developer** passionate about building scalable, high-performance, and user-focused web applications.
 
-* 🌱 Currently learning **Advanced MERN Stack Development**
-* 💻 I can build **Full Stack MERN Applications**
-* 🚀 I love creating **modern UI and interactive websites**
+I specialize in designing and developing modern web solutions with clean UI, strong backend architecture, and smooth user experiences.
+
+* 🌱 Currently advancing my skills in **Full Stack MERN Development (MongoDB,Postgresql,Mysql,Express, React,Next.js, Node.js)**
+* 💻 Capable of building **complete full-stack web applications from scratch**
+* 🚀 Passionate about creating **responsive, modern, and interactive user interfaces**
+* ⚙️ Focused on writing **clean, maintainable, and efficient code**
 * 🌍 Based in **Bangladesh**
 
 ---
