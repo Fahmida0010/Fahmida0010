@@ -15,7 +15,7 @@ I am **Fahmida Akter Tanjina**, a **Full Stack Developer** passionate about buil
 
 I specialize in designing and developing modern web solutions with clean UI, strong backend architecture, and smooth user experiences.
 
-* 🌱 Currently advancing my skills in **Full Stack Development (MongoDB,Postgresql,Mysql,Express, React,Next.js, Node.js)**
+* 🌱 Currently working on DynoCV full stack project with Docker ,React ,Typescript ,Nest.JS ,prisma , postgresql , Bootstrap , jwt , bcrypt , zod , react Hook form , axios , Nodemailer ,Cloudinary etc. Also advancing my skills in **Backend Development (Mysql,Python,PHP,C#) **
 * 💻 Capable of building **complete full-stack web applications from scratch**
 * 🚀 Passionate about creating **responsive, modern, and interactive user interfaces**
 * ⚙️ Focused on writing **clean, maintainable, and efficient code**
