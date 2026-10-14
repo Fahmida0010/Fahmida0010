@@ -15,7 +15,9 @@ I am **Fahmida Akter Tanjina**, a **Full Stack Developer** passionate about buil
 
 I specialize in designing and developing modern web solutions with clean UI, strong backend architecture, and smooth user experiences.
 
-* 🌱 Currently working on DynoCV full stack project with Docker ,React ,Typescript ,Nest.JS ,prisma , postgresql , Bootstrap , jwt , bcrypt , zod , react Hook form , axios , Nodemailer ,Cloudinary etc. Also advancing my skills in **Backend Development (Mysql,Python,PHP,C#) **
+* 🌱 Currently building **10MinutesRestaurants**, a real-world, location-based food discovery platform that helps users discover nearby hotels, eateries, restaurants, and street food spots within a **10-minute walking distance**. Building it with **Next.js, TypeScript, PostgreSQL, Node, express and Tailwind CSS**.
+
+* 🚀 Continuously advancing my skills in **Backend Development**, while exploring MySQL, Python, PHP, and C#.
 * 💻 Capable of building **complete full-stack web applications from scratch**
 * 🚀 Passionate about creating **responsive, modern, and interactive user interfaces**
 * ⚙️ Focused on writing **clean, maintainable, and efficient code**
